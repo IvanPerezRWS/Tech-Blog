@@ -1,0 +1,31 @@
+{
+  "name": "Tech-Blog",
+  "version": "1.0.0",
+  "description": "## Description The propuse of thsi application is to crate a comprehensive webiste with a database and a model-view-controller. This Cms-style blog is supposed to be similar to common wordpress webpages where users can publish and delete posts.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanPerezRWS/Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanPerezRWS/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/IvanPerezRWS/Tech-Blog#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "mysql2": "^2.3.2",
+    "sequelize": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
