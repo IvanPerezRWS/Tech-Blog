@@ -16,4 +16,5 @@ This Cms-style blog is supposed to be similar to common wordpress webpages where
 5) npm run seed
 6) npm start
   
-  
+ ## Deployed application
+    To be inserted (Issues deploying to heroku)
